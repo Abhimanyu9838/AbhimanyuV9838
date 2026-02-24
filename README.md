@@ -17,4 +17,38 @@ i am a student at lovely professional university as a data science.<br>i have ha
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhimanyuV9838&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Abhimanyu</h1>
+
+<h3 align="center">
+🚀 A Passionate 
+<span>
+  <span style="animation: fadeIn 1s forwards;">D</span>
+  <span style="animation: fadeIn 1.2s forwards;">a</span>
+  <span style="animation: fadeIn 1.4s forwards;">t</span>
+  <span style="animation: fadeIn 1.6s forwards;">a</span>
+  &nbsp;
+  <span style="animation: fadeIn 1.8s forwards;">S</span>
+  <span style="animation: fadeIn 2s forwards;">c</span>
+  <span style="animation: fadeIn 2.2s forwards;">i</span>
+  <span style="animation: fadeIn 2.4s forwards;">e</span>
+  <span style="animation: fadeIn 2.6s forwards;">n</span>
+  <span style="animation: fadeIn 2.8s forwards;">c</span>
+  <span style="animation: fadeIn 3s forwards;">e</span>
+</span>
+Enthusiast
+</h3>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+span span { opacity: 0; }
+</style>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> can u improve my about section into beast mode and also add where word animation of data science appears word by word 
