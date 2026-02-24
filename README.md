@@ -6,10 +6,3 @@
 
 
 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ML Badge](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=ml)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=ml)
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
