@@ -21,34 +21,26 @@ i am a student at lovely professional university as a data science.<br>i have ha
 
 
 
+## 🚀 About Me
 
-<h1 align="center">Hi 👋, I'm Abhimanyu</h1>
+I'm Abhimanyu, a 3rd-year Data Science undergraduate passionate about building intelligent, data-driven solutions.
 
-<h3 align="center">
-🚀 A Passionate 
-<span>
-  <span style="animation: fadeIn 1s forwards;">D</span>
-  <span style="animation: fadeIn 1.2s forwards;">a</span>
-  <span style="animation: fadeIn 1.4s forwards;">t</span>
-  <span style="animation: fadeIn 1.6s forwards;">a</span>
-  &nbsp;
-  <span style="animation: fadeIn 1.8s forwards;">S</span>
-  <span style="animation: fadeIn 2s forwards;">c</span>
-  <span style="animation: fadeIn 2.2s forwards;">i</span>
-  <span style="animation: fadeIn 2.4s forwards;">e</span>
-  <span style="animation: fadeIn 2.6s forwards;">n</span>
-  <span style="animation: fadeIn 2.8s forwards;">c</span>
-  <span style="animation: fadeIn 3s forwards;">e</span>
-</span>
-Enthusiast
-</h3>
+With strong foundations in DSA, Machine Learning, and Statistical Analysis, I enjoy transforming complex datasets into actionable insights.
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-span span { opacity: 0; }
-</style>
+### 🧠 Core Strengths
+- Data Structures & Algorithms
+- Machine Learning & Model Building
+- Exploratory Data Analysis
+- SQL & Database Systems
+- Deep Learning & LLMs (Learning Phase)
+
+### 💻 Tech Arsenal
+Python | C++ | Java | SQL  
+NumPy | Pandas | Scikit-Learn | PyTorch  
+Matplotlib | Seaborn | Plotly  
+Docker | GitHub  
+
+I believe in continuous learning, consistency, and execution over excuses.
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> can u improve my about section into beast mode and also add where word animation of data science appears word by word 
