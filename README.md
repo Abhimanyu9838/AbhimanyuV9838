@@ -6,7 +6,7 @@
 
 #🚀 About Me
 
-I'm Abhimanyu, a 3rd-year Data Science undergraduate passionate about building intelligent, data-driven solutions.
+I'm Abhimanyu Verma, a 3rd-year Data Science undergraduate passionate about building intelligent, data-driven solutions.
 
 With strong foundations in DSA, Machine Learning, and Statistical Analysis, I enjoy transforming complex datasets into actionable insights.
 
